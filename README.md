@@ -241,5 +241,5 @@ If you use this code or data, please cite:
 
 ## License
 
-Source code for GSOA (the proposed algorithm) is released under the MIT License.  
+ 
 The competitor algorithm source files retain their original licenses from the respective CEC2022 competition submissions.
