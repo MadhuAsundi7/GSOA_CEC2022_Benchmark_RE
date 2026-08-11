@@ -1,0 +1,27 @@
+# Compiled binaries
+src/**/*_d10
+src/**/*_d20
+src/**/*_b1
+src/**/*_b2
+src/**/*_b3
+src/**/*.so
+src/**/baselines_b*
+src/**/slshadedp
+src/**/nlshadelbc
+src/**/nlshadersp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+*.o
+*.a
+
+# Generated figures (regenerate with plot_results.py)
+analysis/outputs/
+
+# OS
+.DS_Store
+Thumbs.db
