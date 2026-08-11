@@ -1,7 +1,7 @@
 # GSOA: Gravitational Slingshot Optimization Algorithm
 
 **Supplementary code and data for:**  
-*"GSOA: Gravitational Slingshot Optimization Algorithm with p-best Guidance and Adaptive Restart"*
+*"GSOA: Gravitational Slingshot Optimization Algorithm "*
 
 ---
 
